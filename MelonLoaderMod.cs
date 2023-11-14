@@ -44,7 +44,7 @@ namespace LethalCompanyCompass
             textGameObject.transform.name = "Compass Text";
             
             textGameObject.transform.localPosition = new Vector3(-340, 210, 0);
-            // make text mesh color rgb(222, 109, 30)
+            // make text mesh colour rgb(222, 109, 30) [Colour of in game text]
             textMesh.color = new Color(0.87f, 0.43f, 0.12f);
             textMesh.material = new Material(Shader.Find("TextMeshPro/Distance Field"));
         }
@@ -65,43 +65,13 @@ namespace LethalCompanyCompass
 
        public override void OnUpdate()
        {
-           if (player == null)
-            {
-                if(!fade || textMesh.color.a > 0)
-                    TriggerFade(false);
-            }
-            else
-            {
+               if(player = null)
+               return;
                 if(textMesh.color.a < 1)
                     TriggerFade(true);
                 float yRotation = player.transform.rotation.eulerAngles.y;
                 string direction = GetDirection(yRotation);
                 textGameObject.GetComponent<TextMeshProUGUI>().text = direction;
-            }
         }
-       
-       public void TriggerFade(bool fadeIn)
-       {
-           isFadingIn = fadeIn;
-           MelonCoroutines.Start(FadeText());
-       }
-
-       private IEnumerator FadeText()
-       {
-           fade = true;
-           float targetAlpha = isFadingIn ? 1.0f : 0.0f;
-           Color currentColor = textMesh.color;
-           float startAlpha = currentColor.a;
-
-           for (float t = 0.0f; t < 1.0f; t += Time.deltaTime / fadeDuration)
-           {
-               Color newColor = new Color(currentColor.r, currentColor.g, currentColor.b, Mathf.Lerp(startAlpha, targetAlpha, t));
-               textMesh.color = newColor;
-               yield return null;
-           }
-           // Ensure the final alpha is set correctly
-           textMesh.color = new Color(currentColor.r, currentColor.g, currentColor.b, targetAlpha);
-           fade = false;
-       }
     }
 }
