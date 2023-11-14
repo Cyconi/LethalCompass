@@ -2,6 +2,8 @@
 using UnityEngine;
 using System.Collections;
 using System;
+using Unity.Netcode;
+using UnityEngine.Networking;
 
 
 namespace LethalCompanyCompass
@@ -24,17 +26,14 @@ namespace LethalCompanyCompass
         private float fadeDuration = 1f;
         private bool isFadingIn;
         private bool fade = false;
-        private Transform playerContainer;
-        
+
         public override void OnSceneWasInitialized(int buildIndex, string sceneName)
         {
             if (sceneName == "MainMenu" || sceneName == "InitScene" || sceneName == "InitSceneLaunchOptions")
                 return;
-            if (!GameObject.Find("PlayersContainer")) return;
-            
+            player = StartOfRound.Instance.localPlayerController.gameObject;
             if(textGameObject == null)
             textGameObject = new GameObject("TextMeshPro Object");
-            playerContainer = GameObject.Find("PlayersContainer").transform;
             if(textMesh == null)
             textMesh = textGameObject.AddComponent<TextMeshProUGUI>();
             textMesh.text = "Your Text Here";
@@ -66,16 +65,6 @@ namespace LethalCompanyCompass
 
        public override void OnUpdate()
        {
-           if (playerContainer != null && playerContainer.childCount > 5)
-           {
-               player = playerContainer.GetChild(5).gameObject;
-           }
-           else
-           {
-               TriggerFade(false);
-               return;
-           }
-
            if (player == null)
             {
                 if(!fade || textMesh.color.a > 0)

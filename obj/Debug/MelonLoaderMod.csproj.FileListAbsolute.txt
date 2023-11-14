@@ -390,3 +390,9 @@ C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\Lethal
 C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\obj\Debug\MelonLoaderMod.csproj.CopyComplete
 C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\obj\Debug\LethalCompanyCompass.dll
 C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\obj\Debug\LethalCompanyCompass.pdb
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\Assembly-CSharp.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\Facepunch.Steamworks.Win64.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\DissonanceVoip.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\Facepunch Transport for Netcode for GameObjects.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\ClientNetworkTransform.dll
