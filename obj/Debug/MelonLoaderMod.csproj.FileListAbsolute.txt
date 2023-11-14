@@ -1,0 +1,392 @@
+C:\Users\euanm\Downloads\ModTemplate\MelonLoader Mod\bin\Debug\gravityadjuster.dll
+C:\Users\euanm\Downloads\ModTemplate\MelonLoader Mod\bin\Debug\gravityadjuster.pdb
+C:\Users\euanm\Downloads\ModTemplate\MelonLoader Mod\bin\Debug\Il2Cppmscorlib.dll
+C:\Users\euanm\Downloads\ModTemplate\MelonLoader Mod\bin\Debug\MelonLoader.dll
+C:\Users\euanm\Downloads\ModTemplate\MelonLoader Mod\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\euanm\Downloads\ModTemplate\MelonLoader Mod\bin\Debug\UnityEngine.InputLegacyModule.dll
+C:\Users\euanm\Downloads\ModTemplate\MelonLoader Mod\bin\Debug\UnityEngine.InputModule.dll
+C:\Users\euanm\Downloads\ModTemplate\MelonLoader Mod\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\euanm\Downloads\ModTemplate\MelonLoader Mod\bin\Debug\UnhollowerBaseLib.dll
+C:\Users\euanm\Downloads\ModTemplate\MelonLoader Mod\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Users\euanm\Downloads\ModTemplate\MelonLoader Mod\bin\Debug\Iced.dll
+C:\Users\euanm\Downloads\ModTemplate\MelonLoader Mod\bin\Debug\MelonLoader.xml
+C:\Users\euanm\Downloads\ModTemplate\MelonLoader Mod\obj\Debug\MelonLoaderMod.csproj.AssemblyReference.cache
+C:\Users\euanm\Downloads\ModTemplate\MelonLoader Mod\obj\Debug\MelonLoaderMod.csproj.CoreCompileInputs.cache
+C:\Users\euanm\Downloads\ModTemplate\MelonLoader Mod\obj\Debug\MelonLoaderMod.csproj.CopyComplete
+C:\Users\euanm\Downloads\ModTemplate\MelonLoader Mod\obj\Debug\gravityadjuster.dll
+C:\Users\euanm\Downloads\ModTemplate\MelonLoader Mod\obj\Debug\gravityadjuster.pdb
+C:\Users\euanm\Downloads\NightClub\MelonLoader Mod\obj\Debug\MelonLoaderMod.csproj.AssemblyReference.cache
+C:\Users\euanm\Downloads\NightClub\MelonLoader Mod\obj\Debug\MelonLoaderMod.csproj.CoreCompileInputs.cache
+C:\Users\euanm\Downloads\NightClub\MelonLoader Mod\obj\Debug\gravityadjuster.dll
+C:\Users\euanm\Downloads\NightClub\MelonLoader Mod\obj\Debug\gravityadjuster.pdb
+C:\Users\euanm\Downloads\NightClub\MelonLoader Mod\bin\Debug\gravityadjuster.dll
+C:\Users\euanm\Downloads\NightClub\MelonLoader Mod\bin\Debug\gravityadjuster.pdb
+C:\Users\euanm\Downloads\NightClub\MelonLoader Mod\bin\Debug\Il2Cppmscorlib.dll
+C:\Users\euanm\Downloads\NightClub\MelonLoader Mod\bin\Debug\MelonLoader.dll
+C:\Users\euanm\Downloads\NightClub\MelonLoader Mod\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\euanm\Downloads\NightClub\MelonLoader Mod\bin\Debug\UnityEngine.InputLegacyModule.dll
+C:\Users\euanm\Downloads\NightClub\MelonLoader Mod\bin\Debug\UnityEngine.InputModule.dll
+C:\Users\euanm\Downloads\NightClub\MelonLoader Mod\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\euanm\Downloads\NightClub\MelonLoader Mod\bin\Debug\UnhollowerBaseLib.dll
+C:\Users\euanm\Downloads\NightClub\MelonLoader Mod\bin\Debug\0Harmony.dll
+C:\Users\euanm\Downloads\NightClub\MelonLoader Mod\bin\Debug\MonoMod.Utils.dll
+C:\Users\euanm\Downloads\NightClub\MelonLoader Mod\bin\Debug\MonoMod.RuntimeDetour.dll
+C:\Users\euanm\Downloads\NightClub\MelonLoader Mod\bin\Debug\AssetRipper.VersionUtilities.dll
+C:\Users\euanm\Downloads\NightClub\MelonLoader Mod\bin\Debug\Mono.Cecil.dll
+C:\Users\euanm\Downloads\NightClub\MelonLoader Mod\bin\Debug\AssetsTools.NET.dll
+C:\Users\euanm\Downloads\NightClub\MelonLoader Mod\bin\Debug\Tomlet.dll
+C:\Users\euanm\Downloads\NightClub\MelonLoader Mod\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\euanm\Downloads\NightClub\MelonLoader Mod\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\euanm\Downloads\NightClub\MelonLoader Mod\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Users\euanm\Downloads\NightClub\MelonLoader Mod\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Users\euanm\Downloads\NightClub\MelonLoader Mod\bin\Debug\Iced.dll
+C:\Users\euanm\Downloads\NightClub\MelonLoader Mod\bin\Debug\MelonLoader.xml
+C:\Users\euanm\Downloads\NightClub\MelonLoader Mod\obj\Debug\MelonLoaderMod.csproj.CopyComplete
+C:\Users\euanm\Downloads\HBPerformanceImprovment\MelonLoader Mod\bin\Debug\postprocessingdisable.dll
+C:\Users\euanm\Downloads\HBPerformanceImprovment\MelonLoader Mod\bin\Debug\postprocessingdisable.pdb
+C:\Users\euanm\Downloads\HBPerformanceImprovment\MelonLoader Mod\bin\Debug\Il2Cppmscorlib.dll
+C:\Users\euanm\Downloads\HBPerformanceImprovment\MelonLoader Mod\bin\Debug\MelonLoader.dll
+C:\Users\euanm\Downloads\HBPerformanceImprovment\MelonLoader Mod\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\euanm\Downloads\HBPerformanceImprovment\MelonLoader Mod\bin\Debug\UnityEngine.InputLegacyModule.dll
+C:\Users\euanm\Downloads\HBPerformanceImprovment\MelonLoader Mod\bin\Debug\UnityEngine.InputModule.dll
+C:\Users\euanm\Downloads\HBPerformanceImprovment\MelonLoader Mod\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\euanm\Downloads\HBPerformanceImprovment\MelonLoader Mod\bin\Debug\UnhollowerBaseLib.dll
+C:\Users\euanm\Downloads\HBPerformanceImprovment\MelonLoader Mod\bin\Debug\0Harmony.dll
+C:\Users\euanm\Downloads\HBPerformanceImprovment\MelonLoader Mod\bin\Debug\MonoMod.Utils.dll
+C:\Users\euanm\Downloads\HBPerformanceImprovment\MelonLoader Mod\bin\Debug\MonoMod.RuntimeDetour.dll
+C:\Users\euanm\Downloads\HBPerformanceImprovment\MelonLoader Mod\bin\Debug\AssetRipper.VersionUtilities.dll
+C:\Users\euanm\Downloads\HBPerformanceImprovment\MelonLoader Mod\bin\Debug\Mono.Cecil.dll
+C:\Users\euanm\Downloads\HBPerformanceImprovment\MelonLoader Mod\bin\Debug\AssetsTools.NET.dll
+C:\Users\euanm\Downloads\HBPerformanceImprovment\MelonLoader Mod\bin\Debug\Tomlet.dll
+C:\Users\euanm\Downloads\HBPerformanceImprovment\MelonLoader Mod\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\euanm\Downloads\HBPerformanceImprovment\MelonLoader Mod\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\euanm\Downloads\HBPerformanceImprovment\MelonLoader Mod\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Users\euanm\Downloads\HBPerformanceImprovment\MelonLoader Mod\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Users\euanm\Downloads\HBPerformanceImprovment\MelonLoader Mod\bin\Debug\Iced.dll
+C:\Users\euanm\Downloads\HBPerformanceImprovment\MelonLoader Mod\bin\Debug\MelonLoader.xml
+C:\Users\euanm\Downloads\HBPerformanceImprovment\MelonLoader Mod\obj\Debug\MelonLoaderMod.csproj.AssemblyReference.cache
+C:\Users\euanm\Downloads\HBPerformanceImprovment\MelonLoader Mod\obj\Debug\MelonLoaderMod.csproj.CoreCompileInputs.cache
+C:\Users\euanm\Downloads\HBPerformanceImprovment\MelonLoader Mod\obj\Debug\MelonLoaderMod.csproj.CopyComplete
+C:\Users\euanm\Downloads\HBPerformanceImprovment\MelonLoader Mod\obj\Debug\postprocessingdisable.dll
+C:\Users\euanm\Downloads\HBPerformanceImprovment\MelonLoader Mod\obj\Debug\postprocessingdisable.pdb
+C:\Users\euanm\Downloads\HBTEST\MelonLoader Mod\obj\Debug\MelonLoaderMod.csproj.AssemblyReference.cache
+C:\Users\euanm\Downloads\HBTEST\MelonLoader Mod\obj\Debug\MelonLoaderMod.csproj.CoreCompileInputs.cache
+C:\Users\euanm\Downloads\HBTEST\MelonLoader Mod\bin\Debug\Test.dll
+C:\Users\euanm\Downloads\HBTEST\MelonLoader Mod\bin\Debug\Test.pdb
+C:\Users\euanm\Downloads\HBTEST\MelonLoader Mod\bin\Debug\Il2Cppmscorlib.dll
+C:\Users\euanm\Downloads\HBTEST\MelonLoader Mod\bin\Debug\MelonLoader.dll
+C:\Users\euanm\Downloads\HBTEST\MelonLoader Mod\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\euanm\Downloads\HBTEST\MelonLoader Mod\bin\Debug\UnityEngine.InputLegacyModule.dll
+C:\Users\euanm\Downloads\HBTEST\MelonLoader Mod\bin\Debug\UnityEngine.InputModule.dll
+C:\Users\euanm\Downloads\HBTEST\MelonLoader Mod\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\euanm\Downloads\HBTEST\MelonLoader Mod\bin\Debug\UnhollowerBaseLib.dll
+C:\Users\euanm\Downloads\HBTEST\MelonLoader Mod\bin\Debug\0Harmony.dll
+C:\Users\euanm\Downloads\HBTEST\MelonLoader Mod\bin\Debug\MonoMod.Utils.dll
+C:\Users\euanm\Downloads\HBTEST\MelonLoader Mod\bin\Debug\MonoMod.RuntimeDetour.dll
+C:\Users\euanm\Downloads\HBTEST\MelonLoader Mod\bin\Debug\AssetRipper.VersionUtilities.dll
+C:\Users\euanm\Downloads\HBTEST\MelonLoader Mod\bin\Debug\Mono.Cecil.dll
+C:\Users\euanm\Downloads\HBTEST\MelonLoader Mod\bin\Debug\AssetsTools.NET.dll
+C:\Users\euanm\Downloads\HBTEST\MelonLoader Mod\bin\Debug\Tomlet.dll
+C:\Users\euanm\Downloads\HBTEST\MelonLoader Mod\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\euanm\Downloads\HBTEST\MelonLoader Mod\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\euanm\Downloads\HBTEST\MelonLoader Mod\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Users\euanm\Downloads\HBTEST\MelonLoader Mod\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Users\euanm\Downloads\HBTEST\MelonLoader Mod\bin\Debug\Iced.dll
+C:\Users\euanm\Downloads\HBTEST\MelonLoader Mod\bin\Debug\MelonLoader.xml
+C:\Users\euanm\Downloads\HBTEST\MelonLoader Mod\obj\Debug\MelonLoaderMod.csproj.CopyComplete
+C:\Users\euanm\Downloads\HBTEST\MelonLoader Mod\obj\Debug\Test.dll
+C:\Users\euanm\Downloads\HBTEST\MelonLoader Mod\obj\Debug\Test.pdb
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\LethalCompanyCompass.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\LethalCompanyCompass.pdb
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\MelonLoader.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\Unity.AI.Navigation.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\Unity.Animation.Rigging.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\Unity.Animation.Rigging.DocCodeExamples.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\Unity.Burst.Cecil.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\Unity.Burst.Cecil.Mdb.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\Unity.Burst.Cecil.Pdb.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\Unity.Burst.Cecil.Rocks.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\Unity.Burst.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\Unity.Burst.Unsafe.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\Unity.Collections.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\Unity.Collections.LowLevel.ILSupport.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\Unity.InputSystem.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\Unity.InputSystem.ForUI.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\Unity.Jobs.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\Unity.Mathematics.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\Unity.Multiplayer.Tools.Common.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\Unity.Multiplayer.Tools.MetricTypes.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\Unity.Multiplayer.Tools.NetStats.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\Unity.Multiplayer.Tools.NetStatsMonitor.Component.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\Unity.Multiplayer.Tools.NetStatsMonitor.Configuration.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\Unity.Multiplayer.Tools.NetStatsMonitor.Implementation.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\Unity.Multiplayer.Tools.NetStatsReporting.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\Unity.Multiplayer.Tools.NetworkProfiler.Runtime.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\Unity.Multiplayer.Tools.NetworkSolutionInterface.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\Unity.Multiplayer.Tools.Util.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\Unity.Netcode.Components.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\Unity.Netcode.Runtime.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\Unity.Networking.Transport.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\Unity.ProBuilder.Csg.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\Unity.ProBuilder.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\Unity.ProBuilder.KdTree.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\Unity.ProBuilder.Poly2Tri.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\Unity.ProBuilder.Stl.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\Unity.Profiling.Core.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\Unity.RenderPipelines.Core.Runtime.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\Unity.RenderPipelines.Core.ShaderLibrary.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\Unity.RenderPipelines.HighDefinition.Config.Runtime.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\Unity.RenderPipelines.HighDefinition.Runtime.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\Unity.Services.Authentication.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\Unity.Services.Core.Analytics.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\Unity.Services.Core.Configuration.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\Unity.Services.Core.Device.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\Unity.Services.Core.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\Unity.Services.Core.Environments.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\Unity.Services.Core.Environments.Internal.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\Unity.Services.Core.Internal.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\Unity.Services.Core.Networking.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\Unity.Services.Core.Registration.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\Unity.Services.Core.Scheduler.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\Unity.Services.Core.Telemetry.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\Unity.Services.Core.Threading.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\Unity.Services.QoS.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\Unity.Services.Relay.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\Unity.TextMeshPro.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\Unity.Timeline.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\Unity.VisualEffectGraph.Runtime.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\UnityEngine.AccessibilityModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\UnityEngine.AIModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\UnityEngine.AndroidJNIModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\UnityEngine.AnimationModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\UnityEngine.ARModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\UnityEngine.AudioModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\UnityEngine.ClothModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\UnityEngine.ClusterInputModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\UnityEngine.ClusterRendererModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\UnityEngine.ContentLoadModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\UnityEngine.CrashReportingModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\UnityEngine.DirectorModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\UnityEngine.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\UnityEngine.DSPGraphModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\UnityEngine.GameCenterModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\UnityEngine.GIModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\UnityEngine.GridModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\UnityEngine.HotReloadModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\UnityEngine.LocalizationModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\UnityEngine.NVIDIAModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\UnityEngine.ProfilerModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\UnityEngine.PropertiesModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\UnityEngine.SpriteMaskModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\UnityEngine.SpriteShapeModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\UnityEngine.StreamingModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\UnityEngine.SubstanceModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\UnityEngine.SubsystemsModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\UnityEngine.TerrainModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\UnityEngine.TextCoreFontEngineModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\UnityEngine.TextCoreTextEngineModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\UnityEngine.TilemapModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\UnityEngine.TLSModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\UnityEngine.UI.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\UnityEngine.UIElementsNativeModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\UnityEngine.UIModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\UnityEngine.UmbraModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\UnityEngine.UNETModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\UnityEngine.UnityAnalyticsCommonModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\UnityEngine.UnityConnectModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\UnityEngine.UnityCurlModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\UnityEngine.VehiclesModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\UnityEngine.VFXModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\UnityEngine.VideoModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\UnityEngine.VirtualTexturingModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\UnityEngine.VRModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\UnityEngine.WindModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\UnityEngine.XRModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\UnhollowerBaseLib.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\0Harmony.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\MonoMod.Utils.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\MonoMod.RuntimeDetour.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\AssetRipper.VersionUtilities.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\Mono.Cecil.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\AssetsTools.NET.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\Tomlet.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\netstandard.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\Newtonsoft.Json.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\Iced.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\bin\Debug\MelonLoader.xml
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\obj\Debug\MelonLoaderMod.csproj.AssemblyReference.cache
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\obj\Debug\MelonLoaderMod.csproj.CoreCompileInputs.cache
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\obj\Debug\MelonLoaderMod.csproj.CopyComplete
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\obj\Debug\LethalCompanyCompass.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyKeybinds\MelonLoader Mod\obj\Debug\LethalCompanyCompass.pdb
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\LethalCompanyCompass.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\LethalCompanyCompass.pdb
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\MelonLoader.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\Unity.AI.Navigation.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\Unity.Animation.Rigging.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\Unity.Animation.Rigging.DocCodeExamples.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\Unity.Burst.Cecil.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\Unity.Burst.Cecil.Mdb.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\Unity.Burst.Cecil.Pdb.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\Unity.Burst.Cecil.Rocks.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\Unity.Burst.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\Unity.Burst.Unsafe.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\Unity.Collections.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\Unity.Collections.LowLevel.ILSupport.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\Unity.InputSystem.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\Unity.InputSystem.ForUI.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\Unity.Jobs.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\Unity.Mathematics.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\Unity.Multiplayer.Tools.Common.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\Unity.Multiplayer.Tools.MetricTypes.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\Unity.Multiplayer.Tools.NetStats.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\Unity.Multiplayer.Tools.NetStatsMonitor.Component.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\Unity.Multiplayer.Tools.NetStatsMonitor.Configuration.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\Unity.Multiplayer.Tools.NetStatsMonitor.Implementation.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\Unity.Multiplayer.Tools.NetStatsReporting.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\Unity.Multiplayer.Tools.NetworkProfiler.Runtime.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\Unity.Multiplayer.Tools.NetworkSolutionInterface.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\Unity.Multiplayer.Tools.Util.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\Unity.Netcode.Components.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\Unity.Netcode.Runtime.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\Unity.Networking.Transport.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\Unity.ProBuilder.Csg.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\Unity.ProBuilder.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\Unity.ProBuilder.KdTree.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\Unity.ProBuilder.Poly2Tri.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\Unity.ProBuilder.Stl.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\Unity.Profiling.Core.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\Unity.RenderPipelines.Core.Runtime.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\Unity.RenderPipelines.Core.ShaderLibrary.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\Unity.RenderPipelines.HighDefinition.Config.Runtime.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\Unity.RenderPipelines.HighDefinition.Runtime.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\Unity.Services.Authentication.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\Unity.Services.Core.Analytics.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\Unity.Services.Core.Configuration.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\Unity.Services.Core.Device.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\Unity.Services.Core.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\Unity.Services.Core.Environments.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\Unity.Services.Core.Environments.Internal.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\Unity.Services.Core.Internal.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\Unity.Services.Core.Networking.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\Unity.Services.Core.Registration.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\Unity.Services.Core.Scheduler.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\Unity.Services.Core.Telemetry.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\Unity.Services.Core.Threading.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\Unity.Services.QoS.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\Unity.Services.Relay.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\Unity.TextMeshPro.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\Unity.Timeline.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\Unity.VisualEffectGraph.Runtime.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\UnityEngine.AccessibilityModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\UnityEngine.AIModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\UnityEngine.AndroidJNIModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\UnityEngine.AnimationModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\UnityEngine.ARModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\UnityEngine.AudioModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\UnityEngine.ClothModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\UnityEngine.ClusterInputModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\UnityEngine.ClusterRendererModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\UnityEngine.ContentLoadModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\UnityEngine.CrashReportingModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\UnityEngine.DirectorModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\UnityEngine.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\UnityEngine.DSPGraphModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\UnityEngine.GameCenterModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\UnityEngine.GIModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\UnityEngine.GridModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\UnityEngine.HotReloadModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\UnityEngine.LocalizationModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\UnityEngine.NVIDIAModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\UnityEngine.ProfilerModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\UnityEngine.PropertiesModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\UnityEngine.SpriteMaskModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\UnityEngine.SpriteShapeModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\UnityEngine.StreamingModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\UnityEngine.SubstanceModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\UnityEngine.SubsystemsModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\UnityEngine.TerrainModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\UnityEngine.TextCoreFontEngineModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\UnityEngine.TextCoreTextEngineModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\UnityEngine.TilemapModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\UnityEngine.TLSModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\UnityEngine.UI.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\UnityEngine.UIElementsNativeModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\UnityEngine.UIModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\UnityEngine.UmbraModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\UnityEngine.UNETModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\UnityEngine.UnityAnalyticsCommonModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\UnityEngine.UnityConnectModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\UnityEngine.UnityCurlModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\UnityEngine.UnityTestProtocolModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\UnityEngine.VehiclesModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\UnityEngine.VFXModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\UnityEngine.VideoModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\UnityEngine.VirtualTexturingModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\UnityEngine.VRModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\UnityEngine.WindModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\UnityEngine.XRModule.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\UnhollowerBaseLib.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\0Harmony.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\MonoMod.Utils.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\MonoMod.RuntimeDetour.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\AssetRipper.VersionUtilities.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\Mono.Cecil.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\AssetsTools.NET.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\Tomlet.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\netstandard.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\Newtonsoft.Json.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\Iced.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\bin\Debug\MelonLoader.xml
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\obj\Debug\MelonLoaderMod.csproj.AssemblyReference.cache
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\obj\Debug\MelonLoaderMod.csproj.CoreCompileInputs.cache
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\obj\Debug\MelonLoaderMod.csproj.CopyComplete
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\obj\Debug\LethalCompanyCompass.dll
+C:\Users\euanm\OneDrive\Desktop\MLMods\LethalCompanyCompass\LethalCompass\LethalCompass\obj\Debug\LethalCompanyCompass.pdb
