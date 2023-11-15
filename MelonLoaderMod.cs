@@ -11,11 +11,11 @@ namespace LethalCompanyCompass
     using TMPro;
     public static class BuildInfo
     {
-        public const string Name = "LethalCompanyCompass"; // Name of the Mod.  (MUST BE SET)
-        public const string Author = "squidypal"; // Author of the Mod.  (Set as null if none)
-        public const string Company = null; // Company that made the Mod.  (Set as null if none)
-        public const string Version = "1.0.0"; // Version of the Mod.  (MUST BE SET)
-        public const string DownloadLink = null; // Download Link for the Mod.  (Set as null if none)
+        public const string Name = "LethalCompanyCompass"; 
+        public const string Author = "squidypal"; 
+        public const string Company = null; 
+        public const string Version = "1.0.0"; 
+        public const string DownloadLink = null; 
     }
 
     public class LethalCompanyCompass : MelonMod
@@ -23,15 +23,15 @@ namespace LethalCompanyCompass
         private GameObject player;
         private GameObject textGameObject;
         private TextMeshProUGUI textMesh;
-        private float fadeDuration = 1f;
-        private bool isFadingIn;
-        private bool fade = false;
 
         public override void OnSceneWasInitialized(int buildIndex, string sceneName)
         {
+            // I need to change this to just if(!sceneName == "ParseScene" or whatever the name was)
             if (sceneName == "MainMenu" || sceneName == "InitScene" || sceneName == "InitSceneLaunchOptions")
                 return;
+                // Get the local player
             player = StartOfRound.Instance.localPlayerController.gameObject;
+            // Make the text game object
             if(textGameObject == null)
             textGameObject = new GameObject("TextMeshPro Object");
             if(textMesh == null)
@@ -42,13 +42,15 @@ namespace LethalCompanyCompass
             // Set the text GameObject as a child of a canvas
             textGameObject.transform.SetParent(GameObject.Find("Systems/UI/Canvas").transform, false);
             textGameObject.transform.name = "Compass Text";
-            
+
+            // Make text upper left corner
             textGameObject.transform.localPosition = new Vector3(-340, 210, 0);
             // make text mesh colour rgb(222, 109, 30) [Colour of in game text]
             textMesh.color = new Color(0.87f, 0.43f, 0.12f);
             textMesh.material = new Material(Shader.Find("TextMeshPro/Distance Field"));
         }
 
+// Shrimply gets the direction of the player and assigns in to a direction
         private string GetDirection(float yRotation)
         {
             yRotation = (yRotation + 360) % 360; // Normalize rotation to 0-360 range
@@ -67,8 +69,7 @@ namespace LethalCompanyCompass
        {
                if(player = null)
                return;
-                if(textMesh.color.a < 1)
-                    TriggerFade(true);
+                // Just the direction 
                 float yRotation = player.transform.rotation.eulerAngles.y;
                 string direction = GetDirection(yRotation);
                 textGameObject.GetComponent<TextMeshProUGUI>().text = direction;
