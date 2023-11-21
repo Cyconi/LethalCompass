@@ -14,78 +14,86 @@ namespace LethalCompanyCompass
         public const string Name = "LethalCompanyCompass";
         public const string Author = "squidypal (Cyconi)";
         public const string Company = null;
-        public const string Version = "1.1.0";
+        public const string Version = "1.1.1";
         public const string DownloadLink = null;
     }
 
     public class LethalCompanyCompass : MelonMod
     {
         private GameObject player;
-        private GameObject textGameObject;
-        private TextMeshProUGUI textMesh;
-        private float fadeDuration = 1f;
-        private bool isFadingIn;
-        private bool fade = false;
 
+        private GameObject textGameObject;
+
+        private TextMeshProUGUI textMesh;
+
+        private float fadeDuration = 1f;
+
+        private bool isFadingIn;
+
+        private bool fade = false;
         public override void OnSceneWasInitialized(int buildIndex, string sceneName)
         {
-            if (sceneName == "MainMenu" || sceneName == "InitScene" || sceneName == "InitSceneLaunchOptions") 
-                return;
+            if (!(sceneName == "MainMenu" || sceneName == "InitScene" || sceneName == "InitSceneLaunchOptions"))
+            {
+                player = StartOfRound.Instance.localPlayerController.gameObject;
 
-            player = StartOfRound.Instance.localPlayerController.gameObject;
+                if (textGameObject == null)
+                    textGameObject = new GameObject("TextMeshPro Object");
 
-            if (textGameObject == null)
-                textGameObject = new GameObject("TextMeshPro Object");
+                if (textMesh == null)
+                    textMesh = textGameObject.AddComponent<TextMeshProUGUI>();
 
-            TextMeshProUGUI textMesh = textGameObject.GetComponent<TextMeshProUGUI>() ?? textGameObject.AddComponent<TextMeshProUGUI>();
+                textMesh.text = "CumPiss";
+                textMesh.fontSize = 36f;
+                textMesh.color = new Color(0.87f, 0.43f, 0.12f);
+                textMesh.material = new Material(Shader.Find("TextMeshPro/Distance Field"));
 
-            textMesh.text = "Cumpiss";
-            textMesh.fontSize = 36f;
-            textMesh.color = new Color(0.87f, 0.43f, 0.12f);
-            textMesh.material = new Material(Shader.Find("TextMeshPro/Distance Field"));
-
-            textGameObject.transform.SetParent(GameObject.Find("Systems/UI/Canvas").transform, false);
-            textGameObject.transform.name = "Compass Text";
-            textGameObject.transform.localPosition = new Vector3(-340f, 210f, 0f);
+                textGameObject.transform.SetParent(GameObject.Find("Systems/UI/Canvas").transform, false);
+                textGameObject.transform.name = "Compass Text";
+                textGameObject.transform.localPosition = new Vector3(-340f, 210f, 0f);
+                
+            }
         }
-
 
         private string GetDirection(float yRotation)
         {
             yRotation = (yRotation + 360f) % 360f;
-            if (yRotation <= 30f || yRotation > 330f) 
+            if (yRotation <= 30f || yRotation > 330f)
                 return "North";
-            if (yRotation <= 60f) 
+            if (yRotation <= 60f)
                 return "North East";
-            if (yRotation <= 120f) 
+            if (yRotation <= 120f)
                 return "East";
-            if (yRotation <= 150f) 
+            if (yRotation <= 150f)
                 return "South East";
-            if (yRotation <= 210f) 
+            if (yRotation <= 210f)
                 return "South";
-            if (yRotation <= 240f) 
+            if (yRotation <= 240f)
                 return "South West";
-            if (yRotation <= 300f) 
+            if (yRotation <= 300f)
                 return "West";
-            
+
             return "North West";
         }
 
         public override void OnUpdate()
         {
-            if (player == null && (!fade || textMesh.color.a > 0f))
-                    TriggerFade(false);
-            else
+            try
             {
-                if (textMesh.color.a < 1f)
-                    TriggerFade(true);
+                if (player == null && (!fade || textMesh.color.a > 0f))
+                    TriggerFade(false);
+                else
+                {
+                    if (textMesh.color.a < 1f)
+                        TriggerFade(true);
 
-                float y = player.transform.rotation.eulerAngles.y;
-                string direction = GetDirection(y);
-                textMesh.text = direction;
+                    float y = player.transform.rotation.eulerAngles.y;
+                    string direction = GetDirection(y);
+                    textMesh.text = direction;
+                }
             }
+            catch { }
         }
-
 
         public void TriggerFade(bool fadeIn)
         {
