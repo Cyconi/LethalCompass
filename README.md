@@ -11,5 +11,7 @@ Preview
 
 
 Change Log
-- errrr shut up nerd
+- fixed this
+![image](https://github.com/Cyconi/LethalCompass/assets/94489327/f44efa85-80d7-4714-af04-665f240d732f)
+
 
